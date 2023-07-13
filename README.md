@@ -1,2 +1,2 @@
 # vscodeCaptionImage
-Automatically get the correcpondit image of a caption .txt file in the right pane
+Automatically get the corresponding image of a caption .txt file in the right pane.
